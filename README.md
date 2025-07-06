@@ -60,7 +60,6 @@ _Jun 2024 – Present_
 | 🔧 **PrestaShop Optimizer Module** | A performance-focused PrestaShop module for speed and UX improvements |
 | 📈 **Retail Sales Dashboard** | Built in Power BI with Python-powered EDA |
 | 🤖 **Customer Clustering Model** | Segmented e-commerce users using unsupervised ML |
-| 📦 **Laravel Package Boilerplate** | Reusable Laravel scaffolding for quick backend module setup |
 
 ---
 
@@ -78,27 +77,4 @@ _COMSATS University Islamabad (2010–2014)_
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farobarcha&show_icons=true&theme=tokyonight" alt="Farhan's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farobarcha&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farobarcha&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🚀 Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farobarcha&style=flat-square&color=blue" alt="GitHub Profile Views" />
-</p>
-
----
-
-_“Code with logic, debug with patience, optimize with passion.”_
+_“***Code with logic, debug with patience, optimize with passion.***”_
